@@ -1,4 +1,4 @@
-# 🌐 Toyosi Portfolio Landing Page
+# 🌐 Carbon Stack
 
 A simple and modern **landing page portfolio** for **Toyosi**, an aspiring **DevOps & Cloud Engineer**.  
 This project uses **Node.js** and **Express.js** to serve a static HTML file from the `public` folder.
